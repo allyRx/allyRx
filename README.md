@@ -15,7 +15,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur backend passionné, sp
     -***Microservices***
 
     -***Cloud Native***
-&langs_count=8
+
 
 ## Contact
 
