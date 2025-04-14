@@ -24,4 +24,3 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur backend passionné, sp
 Feel free to get in touch to discuss interesting projects or potential collaborations!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allyRx&show_icons=true&theme=transparent)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=allyRx)](https://github.com/allyRx/github-readme-stats)
