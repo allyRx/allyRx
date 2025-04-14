@@ -1,13 +1,16 @@
-# Albert - Développeur Backend | Express.js | NestJS | Golang
+# Albert - Développeur Backend | Express.js | Java / Spring Boot
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur backend passionné, spécialisé dans **Express.js**, **NestJS** et **Golang**. Mon objectif est de créer des solutions efficaces et évolutives en utilisant les technologies les plus récentes. 
+Bienvenue sur mon profil GitHub ! Je suis un développeur backend passionné, spécialisé dans **Express.js**, **Java / SpringBoot**. Mon objectif est de créer des solutions efficaces , évolutives , securisé et rentable. 
 
-## 🔧 Compétences
+## 🔧 Stacks et Compétence
 
 - **Backend Development**:
   - **Express.js** : Création d'API RESTful performantes et optimisées.
-  - **NestJS** : Architecture modulaire avec TypeScript pour des applications évolutives.
-  - **Golang** : Développement d'API rapides et robustes avec une approche orientée performance.
+  - **Java SpringBoot** :
+        ***Architecture modulaire 
+        ***API rapides et robustes
+        ***Microservices
+        ***Cloud Native
 
 
 ## Contact
