@@ -22,4 +22,6 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur backend passionné, sp
 📧 Reach out via email: herindrainyall2003@gamail.com or Phone (Watsapp): +261 33 94 410 20 | +261 37 50 022 51
 
 Feel free to get in touch to discuss interesting projects or potential collaborations!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allyRx&show_icons=true&theme=transparent)
+
+https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME
