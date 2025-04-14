@@ -7,10 +7,14 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur backend passionné, sp
 - **Backend Development**:
   - **Express.js** : Création d'API RESTful performantes et optimisées.
   - **Java SpringBoot** :
-        -***Architecture modulaire*** 
-        -***API rapides et robustes***
-        -***Microservices***
-        -***Cloud Native***
+
+     -***Architecture modulaire*** 
+
+    -***API rapides et robustes***
+
+    -***Microservices***
+
+    -***Cloud Native***
 
 
 ## Contact
