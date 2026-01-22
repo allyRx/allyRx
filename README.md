@@ -1,7 +1,5 @@
-#  Hi, I'm Ally
-
-Backend Developer 
-Interested in clean architecture, backend systems, and continuous learning.
+#  Backend Developer 
+#  Interested in clean architecture, backend systems, and continuous learning.
 
 
 
